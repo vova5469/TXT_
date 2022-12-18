@@ -1,0 +1,7 @@
+Bug_id-1 
+Title:The SAVE DATA button is smaller than the others
+Severity:trivial
+Priority:low
+Environment:Redmi Note 10Pro, Android 12
+AR:The application buttons have one view
+ER:The SAVE DATA button is smaller than the others
